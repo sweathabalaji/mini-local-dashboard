@@ -16,3 +16,4 @@ This is a full-stack mini dashboard built with **React + Tailwind CSS** on the f
 ---
 
 ## 📁 Demo Picture
+[dashboard](https://github.com/sweathabalaji/mini-local-dashboard/blob/97f34d217c476f80db61fa6b2f1839c796fb3290/Screenshot%202025-07-05%20at%202.54.47%20PM.png)
